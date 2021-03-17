@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  border: 10px solid #000;
+}
+
+.face{
+  width: calc(100% / 6);
+}
